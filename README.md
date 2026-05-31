@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi, I'm Piyush 👋
 
-<!--
-**piyushhcodes/piyushhcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student
 
-Here are some ideas to get you started:
+💻 Aspiring Software Developer & Cybersecurity Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Pune, Maharashtra, India
+
+## About Me
+
+* Learning Web Development and Cybersecurity
+* Exploring Linux, Networking, and Security Fundamentals
+* Building projects to improve my development and security skills
+* Interested in Software Development, Cybersecurity, and IT Infrastructure
+
+## Technical Skills
+
+### Programming & Scripting
+
+* JavaScript
+* Python
+* Bash
+
+### Web Development
+
+* HTML5
+* CSS3
+
+### Cybersecurity & Networking
+
+* Linux
+* TCP/IP
+* DNS
+* HTTP/HTTPS
+* Nmap
+* Wireshark
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* VirtualBox
+
+## Currently Learning
+
+* Advanced JavaScript
+* Backend Development
+* Web Security
+* Python Automation
+* Network Analysis
+
+## Goals for 2026
+
+* Build impactful software projects
+* Strengthen cybersecurity skills
+* Contribute to open-source projects
+* Secure a Software Development or Cybersecurity Internship
+
+## Connect With Me
+
+* GitHub: https://github.com/piyushhcodes
+* LinkedIn: 

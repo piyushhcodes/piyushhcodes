@@ -1,63 +1,29 @@
 # Hi, I'm Piyush 👋
 
-🎓 BCA Student
+🎓 BCA Student | 💻 Aspiring Software Developer & Cybersecurity Enthusiast
 
-💻 Aspiring Software Developer & Cybersecurity Enthusiast
+I'm passionate about technology, cybersecurity, and building software. Currently learning JavaScript, Python, Linux, Networking, and Web Development while working on projects to strengthen my skills.
 
-📍 Pune, Maharashtra, India
+### Tech Stack
 
-## About Me
+* HTML, CSS, JavaScript
+* Python, Bash
+* Linux, Git, GitHub
+* Nmap, Wireshark
+* TCP/IP, DNS, HTTP/HTTPS
 
-* Learning Web Development and Cybersecurity
-* Exploring Linux, Networking, and Security Fundamentals
-* Building projects to improve my development and security skills
-* Interested in Software Development, Cybersecurity, and IT Infrastructure
+### Current Goals
 
-## Technical Skills
+* Build real-world projects
+* Improve problem-solving skills
+* Gain Software Development or Cybersecurity Internship experience
 
-### Programming & Scripting
+### How to Reach Me
 
-* JavaScript
-* Python
-* Bash
+📧 Email: piyushgavande23@gmail.com
 
-### Web Development
+💼 LinkedIn: 
 
-* HTML5
-* CSS3
+🐙 GitHub: github.com/piyushhcodes
 
-### Cybersecurity & Networking
-
-* Linux
-* TCP/IP
-* DNS
-* HTTP/HTTPS
-* Nmap
-* Wireshark
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* VirtualBox
-
-## Currently Learning
-
-* Advanced JavaScript
-* Backend Development
-* Web Security
-* Python Automation
-* Network Analysis
-
-## Goals for 2026
-
-* Build impactful software projects
-* Strengthen cybersecurity skills
-* Contribute to open-source projects
-* Secure a Software Development or Cybersecurity Internship
-
-## Connect With Me
-
-* GitHub: https://github.com/piyushhcodes
-* LinkedIn: 
+📫 Open to learning, collaborating, and internship opportunities.
